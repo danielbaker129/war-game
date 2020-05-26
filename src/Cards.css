@@ -1,4 +1,5 @@
 .cardBorder {
     border: solid;
-    height: 500px;
+    height: 200px;
+    padding-top: 200px;
 }
